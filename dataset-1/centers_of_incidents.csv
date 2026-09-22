@@ -1,0 +1,3 @@
+Pipeline Location,Pipeline Type,Liquid Type,Cause Category,Cause Subcategory,Liquid Ignition,Liquid Explosion,Pipeline Shutdown,Unintentional Release (Barrels),Liquid Recovery (Barrels),Net Loss (Barrels),Public Evacuations,Property Damage Costs,Lost Commodity Costs,Public/Private Property Damage Costs,Emergency Response Costs,Environmental Remediation Costs,Other Costs,All Costs
+ONSHORE,TANK,"HVL OR OTHER FLAMMABLE OR TOXIC FLUID, GAS",INCORRECT OPERATION,MARITIME EQUIPMENT OR VESSEL ADRIFT,NO,NO,UNKNOWN,200,69,132,1,110989,9750,16809,228024,134630,33313,533499
+ONSHORE,UNDERGROUND,CRUDE OIL,MATERIAL/WELD/EQUIP FAILURE,ENVIRONMENTAL CRACKING-RELATED,NO,NO,YES,20082,18245,1837,61,3000000,126118,23000000,177000000,635000000,2400000,840526118

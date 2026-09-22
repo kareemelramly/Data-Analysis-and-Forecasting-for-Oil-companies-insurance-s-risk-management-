@@ -1,0 +1,20 @@
+feature,most_frequent_value,frequency,frequency_percent
+Liquid Explosion,NO,2780,99.46
+Pipeline Location,ONSHORE,2777,99.36
+Liquid Ignition,NO,2700,96.6
+Public/Private Property Damage Costs,0.0,2527,90.74
+Other Costs,0.0,2465,88.7
+Public Evacuations,0.0,2285,97.73
+Net Loss (Barrels),0.0,1489,53.27
+Pipeline Type,ABOVEGROUND,1475,53.11
+Cause Category,MATERIAL/WELD/EQUIP FAILURE,1435,51.34
+Liquid Type,CRUDE OIL,1398,50.02
+Pipeline Shutdown,YES,1395,54.01
+Environmental Remediation Costs,0.0,1240,44.49
+Emergency Response Costs,0.0,809,29.01
+Liquid Recovery (Barrels),0.0,738,26.4
+Property Damage Costs,0.0,539,19.33
+Lost Commodity Costs,0.0,466,16.7
+Cause Subcategory,INTERNAL,362,12.95
+Unintentional Release (Barrels),1.0,170,6.08
+All Costs,0,34,1.22
