@@ -1,0 +1,14 @@
+Corporate Financial Performance Summary (1999-2018)
+=======================================================
+
+Dataset Scope: 8971 companies, 1999-2018.
+
+2018 Market Leaders:
+- Net Income Leader: C_102 ($59,531.00M).
+- Total Assets Leader: C_1452 ($531,864.00M).
+- Market Capitalization Leader: C_102 ($1,073,390.54M).
+- Return on Assets (ROA) Leader: C_6467 (1115.35%).
+
+Interpretation & Takeaways:
+- Profitability ratios (ROA & ROE) isolate true operational efficiency independently of company size.
+- Balance sheet strength should be analyzed by comparing Current Ratio and Debt-to-Equity across peer groups.
