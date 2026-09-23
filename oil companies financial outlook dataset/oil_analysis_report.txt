@@ -1,0 +1,28 @@
+Oil and Gas Major Companies: 2018-2022 Analysis
+====================================================
+
+Dataset scope: 6 companies, 2018-2022, 7 metrics, 35 source rows.
+All source observations are numeric and complete; the metric labels were trimmed and standardized.
+
+2022 leaders:
+- Net income: Aramco (161,068.0 million USD).
+- Total assets: Aramco (664,780.0 million USD).
+- Average hydrocarbon production: Aramco (13.60 million BPDOE).
+- Return on equity: Aramco (36.25%).
+
+Net income change from 2018 to 2022:
+- Largest percentage increase: ExxonMobil (167.5%).
+- Largest percentage decrease: BP (-114.2%).
+
+Interpretation:
+- Net income and return ratios should be read alongside the major disruption in oil and gas markets during 2020-2022.
+- Company size and operating performance are different dimensions: assets and production rankings do not necessarily match profitability rankings.
+- The exported efficiency file supports further risk analysis using profitability relative to assets, equity, and production.
+
+Exported files:
+- oil_company_tidy_data.csv
+- oil_metric_trends.csv
+- oil_company_year_summary.csv
+- oil_company_period_changes.csv
+- oil_company_efficiency_metrics.csv
+- oil_analysis_report.txt
