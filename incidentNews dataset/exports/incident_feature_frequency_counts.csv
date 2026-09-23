@@ -1,0 +1,1490 @@
+feature,value,count
+source_type,Vessel,2478
+source_type,Unknown,1267
+source_type,Other,1267
+source_type,Well,291
+source_type,Wellhead,291
+source_type,Tank,266
+source_type,Storage,266
+source_type,Pipeline,248
+source_type,Facility,246
+source_type,Aircraft,53
+source_type,Natural Event,49
+source_type,Railcar,38
+threat,Oil,2935
+threat,Unknown,1340
+threat,Chemical,336
+threat,Other,325
+commodity,Diesel,1031
+commodity,Oil,462
+commodity,Crude Oil,304
+commodity,Diesel Fuel,232
+commodity,Gasoline,130
+commodity,Crude,87
+commodity,Lube Oil,78
+commodity,#6 Fuel Oil,64
+commodity,Marine Diesel,47
+commodity,Fuel Oil,40
+commodity,Heavy Fuel Oil,37
+commodity,Bunker C,37
+commodity,#2 Fuel Oil,34
+commodity,Waste Oil,31
+commodity,Natural Gas,30
+commodity,Ammonia,23
+commodity,Anhydrous Ammonia,22
+commodity,Sulfuric Acid,21
+commodity,Chemical,20
+commodity,#6 Oil,20
+commodity,Jet Fuel,19
+commodity,Tarballs,19
+commodity,#2 Diesel,18
+commodity,Sodium Hydroxide,17
+commodity,Hydraulic Fluid,17
+commodity,Whale Carcass,17
+commodity,Unknown Oil,17
+commodity,No. 6 Fuel Oil,17
+commodity,Marine Debris,16
+commodity,Hydraulic Oil,16
+commodity,Ifo 380,16
+commodity,Propane,15
+commodity,Condensate,14
+commodity,Chlorine,14
+commodity,Number 6 Fuel Oil,14
+commodity,Ifo 180,14
+commodity,Bunker Fuel,13
+commodity,Light Crude Oil,13
+commodity,Produced Water,12
+commodity,Asphalt,12
+commodity,Jp-5,12
+commodity,Diesel Oil,12
+commodity,Natural Gas Condensate,10
+commodity,Styrene,10
+commodity,#2 Oil,10
+commodity,Hydrochloric Acid,10
+commodity,Heavy Oil,9
+commodity,Unknown,9
+commodity,Ifo,9
+commodity,South Louisiana Crude,9
+commodity,Caustic Soda,9
+commodity,Ethanol,8
+commodity,Marine Diesel Fuel,8
+commodity,Diesel And Lube Oil,8
+commodity,Jet A Fuel,8
+commodity,Xylene,8
+commodity,Calcium Chloride,8
+commodity,1,8
+commodity,Bunker C Fuel Oil,8
+commodity,Hfo,7
+commodity,Naptha,7
+commodity,Whale,7
+commodity,Lube Oils,7
+commodity,Unk,7
+commodity,Unknown Oil (Sheen),7
+commodity,Vegetable Oil,6
+commodity,Lube,6
+commodity,North Slope Crude,6
+commodity,Kerosene,6
+commodity,Chlorine Gas,6
+commodity,Toluene,6
+commodity,Unleaded Gasoline,6
+commodity,Sewage,5
+commodity,Benzene,5
+commodity,Mineral Oil,5
+commodity,Dielectric Fluid,5
+commodity,Diesel And Gasoline,5
+commodity,Asbestos,5
+commodity,Aviation Fuel,5
+commodity,Petroleum,5
+commodity,Transformer Oil,5
+commodity,Jp-8,5
+commodity,Ethylene Glycol,5
+commodity,Bakken Crude Oil,5
+commodity,Crude Oil Condensate,5
+commodity,Zinc Bromide,5
+commodity,#2 Diesel Fuel,5
+commodity,Mercury,5
+commodity,Acrylonitrile,5
+commodity,#2 Heating Oil,5
+commodity,Jp-5 Fuel,5
+commodity,Heavy Louisiana Sweet Crude Oil,5
+commodity,Diesel Oil And Lubrication Oil,5
+commodity,Number 6 Oil,5
+commodity,Phosphoric Acid,5
+commodity,Heavy Black Oil,5
+commodity,Black Oil,5
+commodity,Kuwait Crude Oil,5
+commodity,Bunker C Oil,5
+commodity,Avgas,4
+commodity,Urea,4
+commodity,Lubricating Oil,4
+commodity,Louisiana Sweet Crude,4
+commodity,Oily Water,4
+commodity,Butane,4
+commodity,Engine Oil,4
+commodity,Oil Sheen,4
+commodity,Butadiene,4
+commodity,Drilling Mud,4
+commodity,Sulfur Dioxide,4
+commodity,Diesel & Lube Oil,4
+commodity,Debris,4
+commodity,South Louisiana Crude Oil,4
+commodity,Louisiana Crude,4
+commodity,Slurry Oil,4
+commodity,Invasive Species,4
+commodity,Methyl Ethyl Ketone,4
+commodity,La Crude,4
+commodity,Suspected Crude Oil Release,4
+commodity,Raffinate,4
+commodity,Cumene,4
+commodity,Suspected Diesel,4
+commodity,Bunker,4
+commodity,Acetone,4
+commodity,Logs,4
+commodity,Ifo-180,4
+commodity,Hazardous Materials,4
+commodity,Intermediate Fuel Oil,4
+commodity,Arabian Crude Oil,4
+commodity,North Slope Crude Oil,4
+commodity,Red Dye Diesel,3
+commodity,Gasoline And Diesel,3
+commodity,Multiple,3
+commodity,Heavy Crude Oil,3
+commodity,Afff,3
+commodity,3,3
+commodity,Diesel And Lube,3
+commodity,Cooking Oil,3
+commodity,Molten Sulfur,3
+commodity,Petroleum Coke,3
+commodity,Marine Grade Diesel,3
+commodity,Light Crude,3
+commodity,Sweet Louisiana Crude,3
+commodity,Possible Oil,3
+commodity,Motor Oil,3
+commodity,Coal,3
+commodity,Salt,3
+commodity,Caustic Soda Solution,3
+commodity,Bunker Oil,3
+commodity,Gas Oil,3
+commodity,Home Heating Oil,3
+commodity,Heating Oil,3
+commodity,Crude Oil Or Condensate,3
+commodity,Denatured Alcohol,3
+commodity,2,3
+commodity,Diesel Fuel Oil,3
+commodity,Bilge Slops,3
+commodity,Unkown,3
+commodity,Hydrofluoric Acid,3
+commodity,Sweet Crude,3
+commodity,Diesel Fuell,3
+commodity,Cyclohexane,3
+commodity,Bunker C Fuel,3
+commodity,Diesel And Hydraulic Fluid,3
+commodity,Acrolein,3
+commodity,Gas,3
+commodity,Vinyl Chloride,3
+commodity,#6 Hfo,3
+commodity,Chloroform,3
+commodity,Diesel #2,3
+commodity,No. 2 Heating Oil,3
+commodity,#2 Fuel,3
+commodity,Ethylene Dichloride,3
+commodity,Condensate Crude Oil,3
+commodity,Alaska North Slope Crude,3
+commodity,Light Arabian Crude Oil,3
+commodity,Sodium Cyanide,3
+commodity,Arabian Crude,3
+commodity,Nigerian Crude Oil,3
+commodity,No. 2 Fuel Oil,3
+commodity,#4 Fuel Oil,3
+commodity,#4 Oil,3
+commodity,No. 2 Diesel,3
+commodity,No. 4 Fuel Oil,3
+commodity,Venezuelan Crude Oil,3
+commodity,Raw Sewage,2
+commodity,Venezuelan Crude,2
+commodity,Hydrogen Sulfide,2
+commodity,Gear Oil,2
+commodity,Hurricane Response,2
+commodity,Sheen,2
+commodity,Hydrofluorosilicic Acid,2
+commodity,Fertilizer,2
+commodity,Propylene Glycol,2
+commodity,#6 Fuel,2
+commodity,Jet A,2
+commodity,Hazmat,2
+commodity,Sulfur,2
+commodity,South Lousiana Crude,2
+commodity,Methanol,2
+commodity,Industrial Fuel Oil,2
+commodity,Ca Crude Oil,2
+commodity,Mystery,2
+commodity,Hydraulic,2
+commodity,Hfo And Diesel,2
+commodity,Glacial Acetic Acid,2
+commodity,Produce Water,2
+commodity,Dead Whale,2
+commodity,Ferrosilicon,2
+commodity,Vacuum Gas Oil,2
+commodity,Morpholine,2
+commodity,Bio-Diesel,2
+commodity,Bilge Oil,2
+commodity,Shipping Containers,2
+commodity,Vacuum Gas Oil (Vgo),2
+commodity,Styrene Monomer,2
+commodity,H2S Gas,2
+commodity,La Crude Oil,2
+commodity,Lpg,2
+commodity,Deisel,2
+commodity,Diesel Fuel And Hydraulic Oil,2
+commodity,Vessel Adrift,2
+commodity,Number 2 Diesel,2
+commodity,Barrel,2
+commodity,Crude Oil (South Louisiana),2
+commodity,Jp5 Fuel,2
+commodity,Unknown Petroleum Product,2
+commodity,Pcbs,2
+commodity,Thiourea Dioxide,2
+commodity,Diesel Gasoline,2
+commodity,Nitrous Oxide,2
+commodity,Diesel Fuel And Lube Oil,2
+commodity,Hydrogen Peroxide,2
+commodity,Adiponitrile,2
+commodity,Diesel Or Gas,2
+commodity,Vinyl Acetate,2
+commodity,S. La Crude,2
+commodity,Unknown Oil Type,2
+commodity,Oily Waste,2
+commodity,Slop Oil,2
+commodity,Various,2
+commodity,Condensate And Natural Gas,2
+commodity,Natural Gas And Condensate,2
+commodity,Unknown Substance,2
+commodity,Diesel And Lube Oils,2
+commodity,Unk Oil,2
+commodity,Likely Diesel,2
+commodity,Crude Oil And Production Water,2
+commodity,Light Cycle Oil,2
+commodity,Fuel Oil #6,2
+commodity,Light Condensate,2
+commodity,No. 6 Oil,2
+commodity,Calcium Chloride Solution,2
+commodity,Fish Oil,2
+commodity,Gas And Gas Condensate,2
+commodity,Possibly Heavy Fuel Oil,2
+commodity,Batteries,2
+commodity,Hondo Crude,2
+commodity,Heavy Metals,2
+commodity,#2 Diesel Fuel Oil,2
+commodity,Wheat,2
+commodity,Bauxite,2
+commodity,Methyl Acrylate,2
+commodity,Unspecified Oil,2
+commodity,Fuel Oil #2,2
+commodity,Coal Tar,2
+commodity,Sodium Hydrosulfide,2
+commodity,# 6 Oil,2
+commodity,Fuel,2
+commodity,Oiled Birds,2
+commodity,Potassium Permanganate,2
+commodity,Ammonium Nitrate,2
+commodity,Ifo-380,2
+commodity,Plastic Resins,2
+commodity,Dichloropropene,2
+commodity,Middle Ground Shoal Crude Oil,2
+commodity,2-Ethyl Hexanol,2
+commodity,Alaskan North Slope Crude Oil,2
+commodity,And Lube Oil,2
+commodity,Sodium Hypochlorite,2
+commodity,Bundles Of Logs,2
+commodity,Number 2 Fuel Oil,2
+commodity,Titanium Dioxide,2
+commodity,Ibf 380,2
+commodity,Medium Crude Oil,2
+commodity,Calcium Oxide,2
+commodity,Paraffin,2
+commodity,Pine Logs,2
+commodity,Pyrolysis Gas,2
+commodity,Crude Sulfate Turpentine,2
+commodity,Toluene Diisocyanate (Tdi),2
+commodity,Jp-5 Jet Fuel,2
+commodity,Butyl Acrylate,2
+commodity,Arabian Light Crude,2
+commodity,1-Trichloroethane,2
+commodity,# 6 Fuel Oil,2
+commodity,Chloroacetic Acid,2
+commodity,Allyl Alcohol,2
+commodity,Magnesium Phosphide,2
+commodity,Louisiana Crude Oil,2
+commodity,California Crude Oil,2
+commodity,Ammonium Sulfate,2
+commodity,Alaska North Slope Crude Oil,2
+commodity,Iranian Heavy Crude Oil,2
+commodity,Acetylene,2
+commodity,Medical Waste,2
+commodity,Carbon Black Feedstock,2
+commodity,Number 2 Diesel Fuel,2
+commodity,Polychlorinated Biphenyl -- Laden Oil,2
+commodity,Ekofisk Crude Oil,2
+commodity,Propane Gas,2
+commodity,Formaldehyde,2
+commodity,Dimethoate,2
+commodity,Sodium Nitrate,2
+commodity,Phenol,2
+commodity,No. 2 Oil,2
+commodity,Ninian Crude Oil,2
+commodity,Bunker Fuel Oil,2
+commodity,Nigerian Crude,2
+commodity,Hydrogen,1
+commodity,Creosote,1
+commodity,Scrap Metal,1
+commodity,Jp5 Fuel Oil,1
+commodity,Unspecified Metal,1
+commodity,Autos,1
+commodity,Oil (La Sweet Crude),1
+commodity,Gas (Misc),1
+commodity,Diesel Or Gasoline,1
+commodity,Lsfo,1
+commodity,Heavy Heating Oil,1
+commodity,Diesel And Others,1
+commodity,No 2 Diesel Fuel,1
+commodity,Diesel Fuel And Refrigerant Oil,1
+commodity,Vegetable,1
+commodity,Peanut And Soybean Oil,1
+commodity,Gasoline 84 Octane Conventional,1
+commodity,Corrosion Inhibitor,1
+commodity,Sweet Lousiana Crude,1
+commodity,Smoke Plume,1
+commodity,Marine Gas Oil (Mgo),1
+commodity,Mystery Oil,1
+commodity,Concrete,1
+commodity,Leachate,1
+commodity,Basrah Medium Crude,1
+commodity,Denatured Alcohol And Gasoline,1
+commodity,Industrial Fuel,1
+commodity,Alkyl Ether Sulfate (Os 370),1
+commodity,21,1
+commodity,000 Gallons Of Oily Water,1
+commodity,200 Gallons Of Hazardous Waste,1
+commodity,Possible Unrefined Crude Oil,1
+commodity,Vacuum Gas Oil (Api 26),1
+commodity,Tar Patties,1
+commodity,Crude Oil And Produced Water,1
+commodity,F-500 Encapsulating Agent,1
+commodity,Liquified Nitrogen,1
+commodity,Bilge Waste (Mixed),1
+commodity,Marine Diesel Engine Oil,1
+commodity,C-5 Naptha,1
+commodity,Coke Flushing Liquor,1
+commodity,Acid Solution (Concentration Unknown),1
+commodity,Misc In Fire,1
+commodity,Sodium Chlorate,1
+commodity,"Jet Fuel ""A""",1
+commodity,Possibly Oil,1
+commodity,R99 Renewable Diesel,1
+commodity,Hafo,1
+commodity,Hurricane,1
+commodity,Marine Red-Dye Diesel,1
+commodity,Non-Petroleum,1
+commodity,Fire Soot,1
+commodity,Organic Waste Mixture,1
+commodity,Hydraulic Fluid (Environmentally Acceptable Lubricant),1
+commodity,Petroleum Oils,1
+commodity,Molten Asphalt And Sodium Hydrosulfide (See Note),1
+commodity,Diesel & Hydraulic Oil,1
+commodity,Vacuum Tank Bottoms,1
+commodity,Aka Asphalt,1
+commodity,Jet A Aviation Fuel,1
+commodity,Pet Coke,1
+commodity,Petroleum Products,1
+commodity,Hydraulic Oils,1
+commodity,Organic Peroxide (Trigonox 21S),1
+commodity,Acrylic Polymer,1
+commodity,Possibly Paraffin,1
+commodity,100 Octane Aviation Gasoline,1
+commodity,Unleaded Gasolinge,1
+commodity,Alcohols,1
+commodity,Caprylic And Capric,1
+commodity,N,1
+commodity,N Dimethyldodecylamine.,1
+commodity,Diluted Bitumen,1
+commodity,Eagle Ford Shale Oil (Ingleside 50),1
+commodity,Used Lube Oil,1
+commodity,Uxo,1
+commodity,Algae Bloom,1
+commodity,Soybean Oil,1
+commodity,Diesel (Approx 2500 Ga),1
+commodity,Lube Oils (100 Ga),1
+commodity,Shc Lubricating Oil,1
+commodity,Vlsfo,1
+commodity,Used Cooking Oil,1
+commodity,Red-Dye Diesel,1
+commodity,Ballast Water And Crw3448 Corrosion Inhibitor,1
+commodity,Lube And Diesel,1
+commodity,Recycled Metal,1
+commodity,Ethylhexyl Nitrate,1
+commodity,Salt Water,1
+commodity,International 950-Cleaner,1
+commodity,Heating Fuel,1
+commodity,Ammonium Polyphosphate (Liquid Fertilizer),1
+commodity,Lubrication Oil,1
+commodity,Smoke & Debris,1
+commodity,Low Sulfur Diesel,1
+commodity,Palm Oil,1
+commodity,Crude Condensate (Api >45,1
+commodity,Oil And Completion Fluids,1
+commodity,Tri-,1
+commodity,Tetra-,1
+commodity,Pentachloroethanes,1
+commodity,Buzios Crude (From Brazil),1
+commodity,Chemical Potentially Chlorine Pellets,1
+commodity,Natural Gas & Crude Oil,1
+commodity,Glycerol,1
+commodity,Numerous,1
+commodity,Lube Oil Mixture,1
+commodity,Approx. 110 Containers,1
+commodity,Condensate (41-45 Api),1
+commodity,Oil And Unknown Chemicals,1
+commodity,Seep Oil,1
+commodity,Copper Solution Spill (Biocide Cusol-5),1
+commodity,Tar,1
+commodity,Oiled Debris,1
+commodity,Mixed Fuels,1
+commodity,#1 Diesel,1
+commodity,Marine Gas,1
+commodity,Diesil,1
+commodity,Crude And Gas,1
+commodity,Non Petroleum Oil,1
+commodity,Heavy Hydrocarbon,1
+commodity,Gas And Heating Oil,1
+commodity,Trash,1
+commodity,Not Oil,1
+commodity,Oil (Sheen),1
+commodity,Rp-1 Kerosene Fuel,1
+commodity,Dielectric Fluids,1
+commodity,'Diesel,1
+commodity,Monoetheylene Glycol,1
+commodity,Diluted Bitumen (Cold Lake Blend),1
+commodity,Fuel Oi,1
+commodity,Cyanide,1
+commodity,Sodium Dimethyldithiocarbamate,1
+commodity,High Sulfur No.6 Fuel Oil,1
+commodity,Ethane,1
+commodity,Diammonium Phosphate Dap,1
+commodity,Granular Chlorine,1
+commodity,Reformate (Gasoline Blending Stock),1
+commodity,Colombian Crude Api 22.6,1
+commodity,Unknown ( Possibly Dirty Motor Oil),1
+commodity,#6 Bunker Fuel,1
+commodity,Jp-5 (Heavy Kerosene,1
+commodity,Unknown Sheen,1
+commodity,Deisel Fuel,1
+commodity,Jet Fuel Or Aviation Gasoline,1
+commodity,Water,1
+commodity,And Gas,1
+commodity,Fuel And Hazmats,1
+commodity,Api ~ 34,1
+commodity,Diesel - Non Marine,1
+commodity,Synthetic Oil,1
+commodity,Navy Special Fuel Oil,1
+commodity,Marine Debris - Containers,1
+commodity,Naptha Solvent,1
+commodity,Sodium Bisulfite,1
+commodity,Spent Sulfuric Acid,1
+commodity,Oil - Marine Diesel,1
+commodity,Chenicals,1
+commodity,4 Train Cars,1
+commodity,76 40 Foot Long Shipping Containers,1
+commodity,Ifo No. 6 (Bunker C),1
+commodity,Sodium Hypochlorite 12.5% Solution,1
+commodity,Oil (Rainbow Sheen),1
+commodity,Bilge (Diesel And Lube Oil),1
+commodity,Oil Biproduct,1
+commodity,Fuel Oil No. 6,1
+commodity,Crude1,1
+commodity,Drum,1
+commodity,Powdered Zinc,1
+commodity,Skiff,1
+commodity,Oil+ Produced Water,1
+commodity,Diluted Petromeen (0.05-0.07%),1
+commodity,Bitumen,1
+commodity,Potential Oil,1
+commodity,Propyl Acetate,1
+commodity,E-Coat,1
+commodity,Propylene Propane Mixture,1
+commodity,(X-Chem)P22 (~700Gal) & Methanol (~150Gal),1
+commodity,Relatively Empty Barge Loose In Unmanned Platform Territory,1
+commodity,Hcl,1
+commodity,Al2O3,1
+commodity,Utica Crude,1
+commodity,Liquid Hydrogen,1
+commodity,Transmixed Petroleum And H2S,1
+commodity,Ferrous Chloride,1
+commodity,Natiral Gas,1
+commodity,Sodium Bicarbonate,1
+commodity,Bisulfate Aqueous,1
+commodity,Oil (Unknown),1
+commodity,Uknown- Napl,1
+commodity,Envirologic Oil 3046,1
+commodity,Probably Oil,1
+commodity,Arab Medium Crude,1
+commodity,Omg-380,1
+commodity,Diesel Fuel And Gasoline,1
+commodity,Refined Cleaning Products,1
+commodity,Marine Diesel And High-Sulfur Fuel Oil,1
+commodity,Jet Fuel Jp8,1
+commodity,Potash,1
+commodity,Residual Asphalt In Tanks,1
+commodity,15-55 Gallon Drums Waste Oil,1
+commodity,34,1
+commodity,000 Gallons Diesel Fuel,1
+commodity,And 3,1
+commodity,100 Gallons Lube Oil,1
+commodity,Crude Oil (Presumed South Louisiana),1
+commodity,Liquid Urea,1
+commodity,Oil (La Sweet),1
+commodity,South Louisian Crude,1
+commodity,Marine Grade Diesel Fuel,1
+commodity,Diesel And Anhydrous Ammonia,1
+commodity,Liquid Phosphorus,1
+commodity,Passenger & Car Ferry,1
+commodity,Cruise Ship,1
+commodity,Diesel With Red Dye,1
+commodity,Mustard Gas,1
+commodity,Rainbow Potentially Oil,1
+commodity,Lousiana Crude Oil,1
+commodity,Crude Oil (Likely Sweet Lousiana),1
+commodity,Possible Crude Oil,1
+commodity,Magnesium,1
+commodity,Natural Gas And Crude Oil Condensate,1
+commodity,Light Petroleum Product (Hydraulic Oil Or Mineral Oil),1
+commodity,Eagle Ford Shale Oil,1
+commodity,Fuel Oil 1-D,1
+commodity,Molten Phenol,1
+commodity,Crude Oil (Likely),1
+commodity,Crude Oil (Sweet Lousiana Crude),1
+commodity,Type 3 Crude Oil,1
+commodity,Haz Mat Materials,1
+commodity,Zinc Bromide Brine,1
+commodity,Other Oil(S),1
+commodity,Vegetable Oil Sweetener Or Shortening,1
+commodity,Caustic Soda (50% Sodium Hydroxide Naoh),1
+commodity,Urea Ammonium Nitrate (Uan),1
+commodity,Jp-1 Kerosene,1
+commodity,Clarified Slurry Oil,1
+commodity,Coal Or Pet Coke,1
+commodity,No Pollution Reported,1
+commodity,Crude Oil (Api 18),1
+commodity,93,1
+commodity,000 Gallons Diesel,1
+commodity,344 Lube Oil,1
+commodity,600 Gals Other,1
+commodity,Various Hazmat Containerized Products And Wet Batteries,1
+commodity,Jp-4 Jet Fuel,1
+commodity,Lubricants,1
+commodity,Anhydrous Ammonia Refridgerant,1
+commodity,Uknown,1
+commodity,Benzol,1
+commodity,Suspected Oil,1
+commodity,Unlknown,1
+commodity,Diesel Bilges,1
+commodity,Caustic Soda (Naoh),1
+commodity,Aviation Fuel Avgas,1
+commodity,Monomethylhydrazine And Dinitrogen Tetroxide,1
+commodity,Silicon Carbide With Trace Metal Contaminants,1
+commodity,Orange Peel Oil,1
+commodity,Mixed Fuel,1
+commodity,Small Amount Of Lube Oil,1
+commodity,Tarballs  & Tarmats,1
+commodity,Sweet Lousiana Crude (Probable-Actual Unknown),1
+commodity,Hfo & Marine Diesel,1
+commodity,Suspected Oil Product Possibly Biodiesel,1
+commodity,Hfo 380,1
+commodity,Unknown At This Time,1
+commodity,Lube Oil 80% Mineral Oil,1
+commodity,Possible Oil From Vessel,1
+commodity,No. 2 Fuel Oil (Red Dye Diesel),1
+commodity,Bunker C Fuel Oil - #6,1
+commodity,Methyl-Tert-Butyl-Ether (Mtbe),1
+commodity,Denatured Ethanol,1
+commodity,Unknown Vapor,1
+commodity,Non-Petroleum Substance,1
+commodity,Organic Product,1
+commodity,Crude Oil (Sweet Louisiana Crude),1
+commodity,Empty Drum,1
+commodity,Possible Hazmat,1
+commodity,But Reported To Smell Like Diesel,1
+commodity,Various Oils,1
+commodity,98% Sulfuric Acid,1
+commodity,Propylene Tetramer,1
+commodity,Petroleum Slurry,1
+commodity,Hydrochloric Acid 27% Concentration,1
+commodity,Magnesium Chloride,1
+commodity,Methane,1
+commodity,Cooking Oil And Grease And Unknown,1
+commodity,Drilling Mud (75% Synthetic Oil Blend),1
+commodity,Crude And Diesel,1
+commodity,Lapio,1
+commodity,No. 12 Crude Oil,1
+commodity,Ifo 380 Or Rgm 380,1
+commodity,Presumably South La Crude,1
+commodity,4-Methylcyclohexane Methanol,1
+commodity,Bunker Oil And,1
+commodity,Or Crude Oil,1
+commodity,Low Viscosity Cable Oil,1
+commodity,Calcium Chloride (Cacl2) 25 % Solution,1
+commodity,Mgo,1
+commodity,Various Petroleum Products,1
+commodity,Sodium Hypochlorite And Chlorine,1
+commodity,Diesel Oil And Lube Oil,1
+commodity,Ifo 60 And Diesel Fuel,1
+commodity,Hazardous Algal Bloom,1
+commodity,High Molecular Weight Copolymer (Acrylate,1
+commodity,Acrylamide),1
+commodity,Petroleum Lubricants,1
+commodity,Molasses,1
+commodity,Tar Balls,1
+commodity,Oil Or Biological Material (Algal Bloom),1
+commodity,Cement (Dry),1
+commodity,Aviation Gas,1
+commodity,Most Likely Diesel,1
+commodity,South La Sweet Crude,1
+commodity,Diesel And Small Amount Of Lube Oil,1
+commodity,100 Octane Avgas,1
+commodity,Ethylene (And Possibly Other Hazmat),1
+commodity,Other Oil And Containers,1
+commodity,May Or May Not Be Oil,1
+commodity,Brown With No Sheen,1
+commodity,Hydrogen Sulfide And Benzene,1
+commodity,Grease,1
+commodity,Liquid Fertilizer And Fuel Oil,1
+commodity,Lube Oil And Hydraulic Fluid,1
+commodity,Production Water,1
+commodity,Salt Water And Crude Oil Mix,1
+commodity,Crude Oil And Condensate,1
+commodity,Heavy (Waste) Oil,1
+commodity,Chloride Solution 0.10%,1
+commodity,Ifo 308,1
+commodity,Diesel And Other Product,1
+commodity,Diesel And Hydraulic Oil,1
+commodity,Naturally Produced Algal Sheen,1
+commodity,Hazard To Navigation,1
+commodity,Rnh 380 And Diesel-Possible Container Cargo,1
+commodity,South La Crude Api 30 (20%) And 80% Produced Water,1
+commodity,South La Crude,1
+commodity,Api=36.2,1
+commodity,Divinylbenzene,1
+commodity,Dispersant Use Is Alleged.,1
+commodity,75 Gallons Of Some Other Oil (Likely Lube Oil),1
+commodity,S. La Crude Condensate,1
+commodity,Rainbow Sheen,1
+commodity,Assumed To Be S La Crude At This Time,1
+commodity,Ifo 380 & Diesel,1
+commodity,Huntington Beach Crude & Produced Water,1
+commodity,La Sweet Crude Oil,1
+commodity,Dodecylaniline,1
+commodity,Potential Reaction Of Bulk Cargo Of Direct Reduced Iron,1
+commodity,Hydraulic Fluid And Crude (Potential),1
+commodity,Mining Intermediate S-7909,1
+commodity,Antifreeze,1
+commodity,#1 Diesel And Gasoline,1
+commodity,#1 Diesel And Aviation Gas,1
+commodity,Diesel And Bunker C,1
+commodity,Fly Ash,1
+commodity,50% Solution Of Sodium Hydroxide,1
+commodity,Diesel And Lude Oils,1
+commodity,Fuel Oil And Diesel,1
+commodity,Mixed Fuel Oil,1
+commodity,And Marine Debris,1
+commodity,Telephone Poles,1
+commodity,Unknown But Suspect Natural Seep,1
+commodity,Basra Light Crude Oil,1
+commodity,Gasoline & Waste Oil,1
+commodity,Jp-8 Jet Fuel,1
+commodity,Diesel Fuel And Other Mixed Oils,1
+commodity,Noctiluca Scintillans,1
+commodity,Birds,1
+commodity,Crude Oil Or Gas Condensate,1
+commodity,Diesel And Crude Oil,1
+commodity,Possibly Diesel,1
+commodity,Unknown Oil Slick,1
+commodity,H2S,1
+commodity,Diesel Fuel 4,1
+commodity,000 Gallons,1
+commodity,Arabic Crude,1
+commodity,Soybeans,1
+commodity,Unk Oil (Sheen),1
+commodity,Alcohol,1
+commodity,And Other Hazmats,1
+commodity,Navy Jet Fuel - Jp-6,1
+commodity,Hfo #6,1
+commodity,Hydraulic Fuel,1
+commodity,Refinery Fuel Gas,1
+commodity,Gasoline And Jet Fuel,1
+commodity,Methyl Bromide Fumigant,1
+commodity,Vessel Drift And Oil,1
+commodity,Natural Gas And Condensate Crude,1
+commodity,33.7 Api Gravity Crude Oil,1
+commodity,Unknown Oil (Tarballs And Sheen),1
+commodity,Diesel Fuel And Lub Oils,1
+commodity,Black Algae,1
+commodity,Hydrochloric Acid Vapor,1
+commodity,Stern Tube Oil,1
+commodity,46% Drilling Mud,1
+commodity,No Release Reported At This Time,1
+commodity,However,1
+commodity,Derailed Cars Contained Alcohol,1
+commodity,Molten Sulfer,1
+commodity,Petroleum Lube Oil And Possible Liquid Petroleum Gas.,1
+commodity,Ethylene Oxide,1
+commodity,Phosphine Gas,1
+commodity,Mogas,1
+commodity,Jet-A,1
+commodity,Suspect Heavy Fuel Oil,1
+commodity,Cook Inlet Crude Oil,1
+commodity,Zinc-Calcium Bromide Solution,1
+commodity,Diesel And Lube Oil And Hydraulic Oil,1
+commodity,Natural Gas And Condensate Liquid.,1
+commodity,Waste Activated Sludge,1
+commodity,Navy Marine Diesel,1
+commodity,Very Light Arbian Crude Oil,1
+commodity,Iron Ore And Fuel Oil,1
+commodity,Synthetic-Based Drilling Mud,1
+commodity,Diesel And Granite Pt. Crude,1
+commodity,Leaking Well,1
+commodity,Suspected To Be Condensate Crude Oil And Gas,1
+commodity,Suspected To Be Condensate Crude Oil,1
+commodity,Ammonia Nitrate (Urea),1
+commodity,Toluene Diisocynate (Tdi),1
+commodity,But Suspected To Be A Petroleum Product Or Waste.,1
+commodity,Light Petroleum Dist.,1
+commodity,Oleum (Sulfuric Acid),1
+commodity,Light Cysle Oil,1
+commodity,Heavy Fuel Oil And Urea,1
+commodity,Pesticides,1
+commodity,And Whatever Else,1
+commodity,Diesel #1,1
+commodity,Est. 40 Api,1
+commodity,H&S Issue,1
+commodity,Oil And Hazardous Materials,1
+commodity,Oil Condensate,1
+commodity,Crude Oil And Naphtha,1
+commodity,Engine Lube Oil,1
+commodity,Flooding,1
+commodity,Platform Fire,1
+commodity,Possible Oil Spill,1
+commodity,Unknown- Possibly Diesel,1
+commodity,Bilge,1
+commodity,Diesel And Lub Oils,1
+commodity,Bunker Fuel And Diesel,1
+commodity,Gasoline And Jet Fuel And Diesel,1
+commodity,Jp-8 Fuel,1
+commodity,Asbestos And Unknown Quantities Of Unknow Oil An Hazardous Materials,1
+commodity,Unexploded Fireworks,1
+commodity,Natural Gas And Condensate Liquid,1
+commodity,Vgo,1
+commodity,Light Crude Oil (Arbaian Light),1
+commodity,Mineral Oil (Luminol),1
+commodity,Possible Lube Oil,1
+commodity,Methyl Glycol,1
+commodity,Gas And Condensate,1
+commodity,Endangered Sperm Whale,1
+commodity,The Spuds,1
+commodity,Zinc Bromide Solution,1
+commodity,Burning Plastics,1
+commodity,Ammonia - 6% Solution,1
+commodity,Unknown Material,1
+commodity,150Weight Shell Omala Gear Oil,1
+commodity,Crude Oil Brine Water,1
+commodity,36,1
+commodity,500 Gals Of Ifo,1
+commodity,800 Gals Of Diesel,1
+commodity,100 Gals Lube Oil,1
+commodity,000 Gals Of Sludge,1
+commodity,Flurosilicic Acid,1
+commodity,Suspected Mystery Oil Spill,1
+commodity,Nitrogen Oxide,1
+commodity,Dimethyl Carbonate,1
+commodity,Hydrazine,1
+commodity,Berryllium,1
+commodity,Diesel And Hydraulic Fluid And Lube Oil,1
+commodity,Lng,1
+commodity,Unspecified Fumigant Residues,1
+commodity,Diesel Fuel And Ifo,1
+commodity,Ifo And Diesel,1
+commodity,Crude Oil (Specific Oil Type Unknown At Present),1
+commodity,Epichlorhydrin,1
+commodity,Methyltetrahydrofuran,1
+commodity,#2 Diesel Heating Fuel Oil,1
+commodity,Methanol Drum,1
+commodity,Diesel And Heavy Fuel Oil,1
+commodity,Butyl Benzyl Phalate,1
+commodity,Low Sulfur Diesel (Red),1
+commodity,Medical Wastes,1
+commodity,Etc.,1
+commodity,Diesel Fuel And Hydraulic Fluid,1
+commodity,Ifo380,1
+commodity,Api Gravity 55,1
+commodity,Red Dyed Diesel,1
+commodity,Phosphoric Acid Solution,1
+commodity,Navy Diesel,1
+commodity,But Included Weathered Tarballs And Lighter Diesel Like Fractions,1
+commodity,Hydrochloric Acid (Hcl) Fumes,1
+commodity,Reaction Products Of Hcl And Water,1
+commodity,Cement,1
+commodity,Or Other.,1
+commodity,Unknown Petroleum,1
+commodity,Diflouro Ethylene: Un# 1959,1
+commodity,27 Api Gravity Crude Oil And Production,1
+commodity,Formation Water,1
+commodity,Ship'S Fuel Oil,1
+commodity,Unconfirmed,1
+commodity,Mystery Spill,1
+commodity,Possibly Crude Oil,1
+commodity,Not Applicable,1
+commodity,Possible Sewage,1
+commodity,Styrofoam Packing,1
+commodity,Unconfirmed Commodity,1
+commodity,And Waste Oils And Possibly Dredge Spoils,1
+commodity,Suspected To Be Crude Oil.,1
+commodity,Paraquat Drums,1
+commodity,Fluoroslicic Acid,1
+commodity,25% Solution,1
+commodity,100 Gallons Of Lube Oil,1
+commodity,Crude Condensate,1
+commodity,Cargo: Sodium Tripolyphosphate,1
+commodity,Pvc Resin,1
+commodity,Steel Pipe & Rebar,1
+commodity,Medium To Heavy Crude Oil,1
+commodity,Ethylenediamine,1
+commodity,Acetone And Others,1
+commodity,No. @ Heating Oil & Diesel Oil,1
+commodity,Chloroacetic Acid Solution,1
+commodity,"""Brown Oil""",1
+commodity,Molten Sulfur Cas 7704-34-9,1
+commodity,Fo #6,1
+commodity,Chlorine Suspected,1
+commodity,But Unconfirmed,1
+commodity,So2,1
+commodity,Missing Persons,1
+commodity,Ifo 150,1
+commodity,900 Gallons Diesel,1
+commodity,200,1
+commodity,000 Lbs. Fish,1
+commodity,Crude Tall Oil,1
+commodity,Number 6 Fuel,1
+commodity,Propargite Un3077,1
+commodity,Fungicide: Commercial Name Fungitrol,1
+commodity,Un# 3082,1
+commodity,Automobiles,1
+commodity,Jp8,1
+commodity,Ethyl Mercaptin,1
+commodity,Cumene (Isopropylbenzene),1
+commodity,Maybe Marine Debris,1
+commodity,Doba Crude Sweet Low Sulfur,1
+commodity,Crude Oil (34 Api),1
+commodity,Lubes,1
+commodity,15 Tons Squid,1
+commodity,Light Oil,1
+commodity,Burning Hurricane Debris,1
+commodity,Missing Mobile Drilling Units (Modus),1
+commodity,Water Mix - Red Dyed,1
+commodity,Fish,1
+commodity,Liquid Asphalt,1
+commodity,Hurricane Track Forecasts,1
+commodity,Search And Rescue Operations,1
+commodity,Aquious Fire Fighting Foam (Afff),1
+commodity,Oil And Oil Products,1
+commodity,Heavy Louisiana Crude Oil,1
+commodity,Crude Oil And Natural Gas,1
+commodity,Isopropyl Alcohol,1
+commodity,Mek,1
+commodity,Mibk,1
+commodity,Diesel Fuel And Hydraulic Oil And Lube Oil,1
+commodity,Tetrachloroethylene,1
+commodity,Methylene Chloride,1
+commodity,Chloronated Parafin Wax,1
+commodity,Ifo And Granular Cement,1
+commodity,Marine Diese,1
+commodity,Tar Balls (Heavy Oil Patties),1
+commodity,Heavy Oil And Diesel,1
+commodity,#2 Home-Heating Oil,1
+commodity,Heavy Fuel Oil (Ifo 180),1
+commodity,Alkylate,1
+commodity,Ifo-380 Fuel Oil,1
+commodity,Marine Diesel And Small Amount Of Lube Oil,1
+commodity,Diesel And Hydraulic Fuel,1
+commodity,Powdered Agricultural Lime,1
+commodity,Anydrous Ammonia,1
+commodity,Bachaquero Crude Oil,1
+commodity,Bunker Oil And Diesel,1
+commodity,Diesel And Lube Or Hydraulic Oil,1
+commodity,Phosporic Acid,1
+commodity,Light Distillates,1
+commodity,Isoprene,1
+commodity,Aqueous Sodium Sulfide,1
+commodity,Coal Slurry,1
+commodity,Syringe Needles,1
+commodity,Jet Fuel A,1
+commodity,Aluminum,1
+commodity,Lube And Fuel,1
+commodity,Sulfuric Acid Oleum,1
+commodity,Helium,1
+commodity,Fiberglass Boat Debris,1
+commodity,Red Dyed Diesel Fuel,1
+commodity,#6 And #2 Oils,1
+commodity,Diesel Oil And Gasoline,1
+commodity,Diesel Fuel And Bilge Slop,1
+commodity,Ifo-310,1
+commodity,Diethanolamine (30-35%)  Cas 000111422,1
+commodity,2-Methyliminodiethanol (55-60%) Cas 000105599,1
+commodity,And Water (10%),1
+commodity,Methyl Chloroform,1
+commodity,Aminoethylpiperazine,1
+commodity,Diesel Oil And Lubrication Oil And Petroleum Products,1
+commodity,Epichlorohydrin,1
+commodity,Tnt,1
+commodity,Epirb,1
+commodity,And Xylene,1
+commodity,Titanium Powder,1
+commodity,Malathion,1
+commodity,Soy Bean Oil,1
+commodity,Methyl Tert-Butyl Ether,1
+commodity,Lousiana Sweet Crude,1
+commodity,Gas Fuel Oil,1
+commodity,Cerro Negro Crude (A Heavy Crude Oil),1
+commodity,Residual Fuel Oil,1
+commodity,Log Bundles,1
+commodity,Fuel Oil #6 And Diesel #2,1
+commodity,Jp5,1
+commodity,Propylene And Propane,1
+commodity,Guthion 2L And Bidrin-8,1
+commodity,Citric Acid And Iron Oxide,1
+commodity,Condensate Crude,1
+commodity,No. 6,1
+commodity,Kuwait Crude,1
+commodity,Oil Tarballs,1
+commodity,Patties,1
+commodity,Maya Crude,1
+commodity,Diphenyl Oxide-Diphenyl Mixture,1
+commodity,Lead Paint,1
+commodity,Navy Special Fuel Oil (Nsfo),1
+commodity,Garbage,1
+commodity,Lube Oil And Hydraulic Oil,1
+commodity,Turtles,1
+commodity,Weathered Lubricating Oils,1
+commodity,Urea And Ammonium Nitrate (Liquid Fertilizers),1
+commodity,#6 Fuel Oil And #2 Fuel Oil,1
+commodity,Hibernia Crude Oil,1
+commodity,Nikossa Crude,1
+commodity,Btex-Raffinate,1
+commodity,And Hydraulic Oil,1
+commodity,Cabina And Escravos Crudes,1
+commodity,Sodium Silicate,1
+commodity,Nigerian Light Crude,1
+commodity,#6 Fuel Oil Cleanup,1
+commodity,Furfural,1
+commodity,Med. Crude,1
+commodity,Sour Crude Oil,1
+commodity,Mars Crude,1
+commodity,Jp5 (Jet Fuel,1
+commodity,Navy Formulation),1
+commodity,Pharaceuticals,1
+commodity,Light Condensate With An Api Of 35,1
+commodity,And Gas Oil,1
+commodity,Crushed Granite,1
+commodity,And Crude Oil,1
+commodity,Diesel And Engine Room Slops,1
+commodity,Basrah Crude Oil,1
+commodity,Sodium Meta-Bisulfite,1
+commodity,Therminol 55,1
+commodity,Bulk Sulfur,1
+commodity,Mfo,1
+commodity,Pyrolysis Gasoline,1
+commodity,6 Fuel Oil,1
+commodity,Light Lube Oil,1
+commodity,Light Arabian Crude,1
+commodity,Various Containers,1
+commodity,Marine Diesel2,1
+commodity,Carbon Disulfide,1
+commodity,Porpolyene Oxide,1
+commodity,Isopropanal,1
+commodity,Concentrated Hydrochloric Acid,1
+commodity,Carbon Disulphide,1
+commodity,Propelene Oxide,1
+commodity,Isopropinal,1
+commodity,Ethynal,1
+commodity,And  Ammonia Hydroxide,1
+commodity,Ifo-180 And Palm Kernel Oil,1
+commodity,Condensate And Crude,1
+commodity,Diesel And Heavy Fuel,1
+commodity,Gasoline And #2 Fuel Oil,1
+commodity,Streptomyces,1
+commodity,Emulsified Oil,1
+commodity,Unused Medical Waste,1
+commodity,And Sulfuric Acid,1
+commodity,Caustic Hydrochloric Acid,1
+commodity,Unknown Gas,1
+commodity,Menhaden,1
+commodity,#6 Fuel Oil And Ifo,1
+commodity,Rotting Fish,1
+commodity,Diesel And Jet Fuel,1
+commodity,Unknown Liquid Material,1
+commodity,Ethylene Glycol Monoethyl Ether Acetate,1
+commodity,Alkyl Sulfonic Acid,1
+commodity,Piperazine,1
+commodity,Potential Ifo 180,1
+commodity,And Kerosene,1
+commodity,Hazardous Material,1
+commodity,Brine,1
+commodity,Mercuric Chloride,1
+commodity,Hazardous Chemicals,1
+commodity,Copper Concentrates,1
+commodity,Zinc,1
+commodity,Oily Sediment,1
+commodity,Texas Sweet Crude,1
+commodity,Sweet Texas Crude,1
+commodity,Queibo Crude Oil,1
+commodity,Timbalier Bay Crude,1
+commodity,Methyl Bromide,1
+commodity,Ethylene Glycol Monoalkyl,1
+commodity,Ethanolamine,1
+commodity,Non-Petroleum Oil,1
+commodity,Urea Fertilizer,1
+commodity,Synthetic Drilling Mud,1
+commodity,Monterey Crude,1
+commodity,Elemental Sulfur,1
+commodity,Asphalt Emulsion,1
+commodity,Red Product,1
+commodity,Chlorpyrifos,1
+commodity,Ifo 180 And Marine Diesel,1
+commodity,Benzoyl Chloride,1
+commodity,Eugene Island Crude,1
+commodity,# 2 Fuel Oil,1
+commodity,Sodium Hydroxide Solution,1
+commodity,Sodium Carbonate Powder,1
+commodity,2-Dichloroethane,1
+commodity,Containers,1
+commodity,Diesel Based Drill Mud,1
+commodity,#6 Oil Or Crude,1
+commodity,Urea Granules,1
+commodity,Potential Chloroform And Styrene,1
+commodity,Dimethyl Malonate,1
+commodity,Malonate Di-Methyl Ester,1
+commodity,Dodecylbenzene,1
+commodity,#4Oil,1
+commodity,Dichloromethane (M2),1
+commodity,And Vinyl Acetate,1
+commodity,Optimer 7128 Cation Flocculant,1
+commodity,Or Ethyl Oxylated Alcohol,1
+commodity,Unknown Chemical,1
+commodity,Home Heating Fuel	Intermediate Fuel Oil 380,1
+commodity,Potassium Hydroxide,1
+commodity,Crude Asphalt,1
+commodity,Jp-1 Jet Fuel Oil,1
+commodity,Lead-Based Paint,1
+commodity,Nemba And Kabinda (Angolan) Crude Oils,1
+commodity,#2 Marine Diesel And Lube Oil,1
+commodity,Pyrolytic Oil,1
+commodity,Like Bunker C,1
+commodity,Polyethylene Glycol,1
+commodity,Trimethyl Phosphite,1
+commodity,Liquid Petroleum Distillate N.O.S.,1
+commodity,Liquid Plastic,1
+commodity,Glycol,1
+commodity,# 6,1
+commodity,Number 2 Fuel,1
+commodity,N-Butyl Isocyanate,1
+commodity,Boron Trichloride,1
+commodity,Toluene Diisocyanate,1
+commodity,Dredge Spoils And 300 Gallons Of Diesel,1
+commodity,Diesel And Lubricating Oil,1
+commodity,Rabbi Crude,1
+commodity,#2 Marine Diesel,1
+commodity,Ferrous Sulfate (Dry Cargo),1
+commodity,Dredge Pipe,1
+commodity,Urethane Primer,1
+commodity,Allyl Caproate (Propenyl Hexanoate) And Caprylic Acid,1
+commodity,Sodium Hydrosulfide (Nash),1
+commodity,Antiblaze,1
+commodity,Briquest,1
+commodity,# 1 Oil,1
+commodity,Diesel And Bilge Slops,1
+commodity,Sunken Vessels,1
+commodity,Diesel Fuel Marine,1
+commodity,Aviation-A Fuel,1
+commodity,Alabama Sweet Crude,1
+commodity,Heated Asphalt,1
+commodity,Maneb (Fungicide),1
+commodity,Granite Point Crude Oil,1
+commodity,#2 Heating Fuel,1
+commodity,And Natural Gas,1
+commodity,Nueces Bay Crude,1
+commodity,Unknown Oil (Possibly) Chemical In Drums,1
+commodity,Animal Fat Material And Raw Sewage (Human Waste),1
+commodity,Bilge Oil (Intermediate Fuel Oil),1
+commodity,Diesel And  Ammonia,1
+commodity,Light Sweet Crude,1
+commodity,Ethlyenedichloride (Edc),1
+commodity,Thick,1
+commodity,Dark Oil,1
+commodity,Specific Identity Uncertain,1
+commodity,Co2,1
+commodity,Compressed Nitrogen,1
+commodity,Aerosol Canisters,1
+commodity,And Potassium Hydroxide,1
+commodity,Diluent,1
+commodity,Iranian Light Crude (Api 33),1
+commodity,Caustic Soda (Sodium Hydroxide),1
+commodity,Tarballs Composed Of Various Weathered Refined Fuels And Alaska North Slope Crude,1
+commodity,Mixed Waste Solvents,1
+commodity,Gasoline And Diesel Quality Reformate (Cutter Stock),1
+commodity,San Joaquin Valley Crude  - Blended (Api 27),1
+commodity,Crude Oil (Api 16-17),1
+commodity,Light Kuwaiti Crude Oil,1
+commodity,Jp4 And #2 Fuel Oil,1
+commodity,Acetaldehyde Oxime,1
+commodity,Freon,1
+commodity,Floods,1
+commodity,Mixed Heavy Oils,1
+commodity,Weathered  Bilge Oils,1
+commodity,Pcb,1
+commodity,Kuwaiti Light Crude Oil,1
+commodity,"Crude Oil ""Rock"" Oil",1
+commodity,Aqueous Magnesium Bisulfite Solution And Sulfur Dioxide Gas,1
+commodity,Jet Petroleum #5 (Jp-5),1
+commodity,Bunker Oil And #2 Diesel,1
+commodity,Spgasoline,1
+commodity,And Condensate,1
+commodity,Bunker C And Diesel,1
+commodity,Bunker Oils And #2 Diesel,1
+commodity,Alkaline Solutions,1
+commodity,Crude And Hydraulic Oil,1
+commodity,Hydraulic And Lube Oil,1
+commodity,Sodium Luminate,1
+commodity,Sodium Aluminate,1
+commodity,Body Of Young Female,1
+commodity,#6,1
+commodity,San Joaquin Heavy Crude,1
+commodity,Brc-17,1
+commodity,Aromatic Concentrates,1
+commodity,Cyclopentadiene,1
+commodity,Weathered Tarball,1
+commodity,Calcium Carbide (Un No. 1402),1
+commodity,Inhibited,1
+commodity,#4,1
+commodity,Oil-Water Mix,1
+commodity,Ruptured Fish Eggs,1
+commodity,North Slope Crud,1
+commodity,Arsenic Trioxide,1
+commodity,Unleaded And Midgrade Gasoline,1
+commodity,Mistaken Oil Spill,1
+commodity,Residual Bunker Oils,1
+commodity,Weathered Oil,1
+commodity,Aluminum Powder,1
+commodity,South Texas Sweet Crude Oil,1
+commodity,Cresols,1
+commodity,Pentachlorophenol,1
+commodity,1-Dichlorothane,1
+commodity,Chlorinated Hydrocarbons,1
+commodity,Tce,1
+commodity,#1 Heating Oil,1
+commodity,Light Murban Crude,1
+commodity,Iranian Heavy Crude,1
+commodity,Torpedo,1
+commodity,Chemicals,1
+commodity,#4 Heating Oil,1
+commodity,Sewage Sludge,1
+commodity,Yellow And Green Substance,1
+commodity,Louisiana Medium Sweet Crude,1
+commodity,Alyl Alcohol Residue,1
+commodity,Paracresol,1
+commodity,Organophosphorous Pesticides,1
+commodity,4 Methyl,1
+commodity,Pentene-1 Isohexene,1
+commodity,Diethylaminoethanol,1
+commodity,Bromoxynil,1
+commodity,Diphenylmethane 4.4 Diisocynate,1
+commodity,Bisulphites,1
+commodity,Trichloroethane,1
+commodity,Boron Trifluoride,1
+commodity,Search And Rescue,1
+commodity,#1 Fuel Oil,1
+commodity,Asphalt Slux,1
+commodity,Barium Sulfate Ore,1
+commodity,#6 Black Oil,1
+commodity,High Sulphur Gas Oil,1
+commodity,Low Sulphur Gas Oil,1
+commodity,Reduced Crude Oil,1
+commodity,Search And Rescue - Missing Plane,1
+commodity,Asphalt Charge Stock,1
+commodity,Heavy Fuel Oil (Hfo),1
+commodity,Vacuum Oil,1
+commodity,No. 5 Oil (Vacuum Oil,1
+commodity,Catalytic Feed Stock),1
+commodity,Angolan Palanca Crude Oil,1
+commodity,3 Dichloropropene,1
+commodity,Aminoethylethanolamine,1
+commodity,Transmix  (Gasoline,1
+commodity,No. 2 Fuel Oil),1
+commodity,3-Trifluoropropene,1
+commodity,Mexican Maya Crude Oil,1
+commodity,7.5 Miles North East Of Ft Jefferson In The Dry Tortugas,1
+commodity,Venezuelan Heavy Crude,1
+commodity,Barge And Crew,1
+commodity,Basrah Light Crude,1
+commodity,Mexican Crude Oil,1
+commodity,Boat And Crew,1
+commodity,Acid,1
+commodity,Angolan Crude Oil,1
+commodity,Metal Turnings,1
+commodity,Lube Oil Aviation Gas Anhydrous Ammonia,1
+commodity,Marijuana,1
+commodity,Mayan Crude,1
+commodity,No. 6 Oil (Heavy Industrial Grade),1
+commodity,2-Methoxy Acetic Acid,1
+commodity,Concentrated Zinc Bromide Solution,1
+commodity,Urea Ammonium Nitrate,1
+commodity,Explosive C-4,1
+commodity,Hydrocarbons,1
+commodity,And Ammonia,1
+commodity,Lasso (A.K.A. Paraquat),1
+commodity,50% Caustic Soda Solution,1
+commodity,Liquefied Gas Silane,1
+commodity,Prudhoe Bay Crude,1
+commodity,Panamanian Crude,1
+commodity,Liquified Magnesium Bisulfite,1
+commodity,West African Takula Crude Oil,1
+commodity,Chromium,1
+commodity,Decaying Hides,1
+commodity,Prudhoe Bay Crude Oil,1
+commodity,Frozen Crab,1
+commodity,Crab,1
+commodity,Dimethoate (Solid),1
+commodity,Contaminated Water,1
+commodity,Diesel Fuel Arctic (Dfa),1
+commodity,And Marine Diesel,1
+commodity,Raffanite.,1
+commodity,Aniline Oil,1
+commodity,Ferrosilicon 50% Grade,1
+commodity,Dry Goods,1
+commodity,Pcb-Laden Soil,1
+commodity,Bunker C Lube Oil,1
+commodity,93% Sulfuric Acid,1
+commodity,Cook Inlet Crude,1
+commodity,Diisononyl Phthalate,1
+commodity,Tanker,1
+commodity,Liquid Oxygen,1
+commodity,Ferric Chloride Solution (30%),1
+commodity,Sweet Crude Oil,1
+commodity,Styrene Liquid,1
+commodity,Carbon-Black Feedstock,1
+commodity,Used Fuel Oil,1
+commodity,Diesel No. 2 Mixture,1
+commodity,Arctic Heating Fuel,1
+commodity,Fatty Alcohol,1
+commodity,Polyalklamine,1
+commodity,Tetrachloroethylene (Tce),1
+commodity,Flammable Liquids,1
+commodity,Corrosives,1
+commodity,Beatrice (North Sea) Crude Oil,1
+commodity,Plankton Bloom,1
+commodity,Diesel Or Kerosene,1
+commodity,Trichloro-S-Triazinetrione,1
+commodity,Penexate,1
+commodity,Ammonium Perchlorate,1
+commodity,Tallow,1
+commodity,Cottonseed Oil,1
+commodity,Waste Motor Oil,1
+commodity,San Joaquin Valley Heavy Crude Oil,1
+commodity,Old Car Parts,1
+commodity,Shredded Rubber,1
+commodity,Foam,1
+commodity,Plastic,1
+commodity,Effluent - Oil,1
+commodity,Methyl Chloride,1
+commodity,Chlorobenzyl Malononitrile (Tear Gas),1
+commodity,Various Organic Compounds,1
+commodity,Heavy Cycle Gas Oil,1
+commodity,Marine Diesel Oil,1
+commodity,Regular Gasoline,1
+commodity,Hexamethylenimine,1
+commodity,Polystyrene Monomer,1
+commodity,Oil Well Fire,1
+commodity,Elwood Crude Oil,1
+commodity,Paraxylene,1
+commodity,# 2 Diesel Fuel,1
+commodity,100% Tetrahydrofuran Solution,1
+commodity,Toluene-2,1
+commodity,4-Diisocyanate,1
+commodity,Liquor,1
+commodity,Toys,1
+commodity,Shoes,1
+commodity,Automatic Transmission Fluid,1
+commodity,Florosil Dye,1
+commodity,Tetraethyl Lead,1
+commodity,Dp 231,1
+commodity,Automotive Batteries,1
+commodity,Enap Crude Oil,1
+commodity,Bunker Fuel (Ifo 180 And Diesel),1
+commodity,Dibrom 14 (Naled),1
+commodity,Solid Waste,1
+commodity,Ethyl Benzene,1
+commodity,Battery Acid (Sulfuric Acid),1
+commodity,Nitric Acid,1
+commodity,North Slope Alaskan Crude,1
+commodity,Iron Oxide,1
+commodity,Bunker C-Like Oil,1
+commodity,Zinc Dust,1
+commodity,Anthraquinone Acid,1
+commodity,Vanadium Compound,1
+commodity,No. 2 Diesel Fuel,1
+commodity,Creosote Oil,1
+commodity,Ferric Sulfate,1
+commodity,Hydroquinone,1
+commodity,Phenol Contaminated Water,1
+commodity,Butyl Acetate,1
+commodity,Premium Unleaded Gasoline,1
+commodity,Bait,1
+commodity,Seawater,1
+commodity,Hazardous Chemical,1
+commodity,Fire - Diesel,1
+commodity,2-Butoxyethanol,1
+commodity,2-Nitropropane,1
+commodity,Picric Acid,1
+commodity,Kerosene With Naphtha Spirits,1
+commodity,Isopropyl Chloroformate,1
+commodity,Sulphuric Acid,1
+commodity,Methylcar Banioyl,1
+commodity,Methyl Thiosphorogithioate,1
+commodity,Dispersant Use Project,1
+commodity,Phaecetin Powder,1
+commodity,Sterile Alcohol,1
+commodity,Sodium Sulfanate,1
+commodity,Calamide-0,1
+commodity,Medical Oxygen,1
+commodity,Methane Gas,1
+commodity,Chlorine (Industrial Strength),1
+commodity,Calcium Hypochloride,1
+commodity,Isthmus Crude Oil,1
+commodity,Glutaraldehyde,1
+commodity,Nitrocarbonitrate,1
+commodity,Phosphorus Pentasulfide,1
+commodity,Polychlorinated Biphenyls,1
+commodity,Bilge Slop,1
+commodity,Hth,1
+commodity,Copper Sulphate,1
+commodity,Calcium Hypochlorite,1
+commodity,Ethyl Acrylate,1
+commodity,Dodecylbenzene (Ddb),1
+commodity,Cresylic Acid  (Cresol),1
+commodity,Chloropicrin,1
+commodity,Potassium Nitrate,1
+commodity,Dicamba,1
+commodity,Hazardous Waste Removal,1
+commodity,Nitro Toluene Isomers,1
+commodity,Meta Toluidine,1
+commodity,Latex,1
+commodity,Ammonium Sulfite,1
+commodity,Ammonium Bisulfite,1
+commodity,Herbicide Production Wastes And Byproducts,1
+commodity,Diesel  Fuel,1
+commodity,Perchloroethylene,1
+commodity,Vinyl Ester Resin -- Derakane 4Ll-45,1
+commodity,Un# 186,1
+commodity,Mexican Isthmanian Crude,1
+commodity,Red Algae Bloom,1
+commodity,Palm Kernel Oil (Vegetable Oil),1
+commodity,Hydrosulfuric Acid (20%),1
+commodity,Nickel,1
+commodity,Aluminum Phosphate,1
+commodity,Western Crude Oil,1
+commodity,Methyl Methacrylate42.90117,1
+commodity,Hydrogen Isochloride,1
+commodity,Terpene,1
+commodity,Coconut Oil,1
+commodity,Ammonium Hydroxide,1
+commodity,And Possibly Phosphoric Acid,1
+commodity,Polyalkylene Glycol,1
+commodity,Isopropyl Peroxide Percarbonate,1
+commodity,Dichlorobenzene Mother Liquor,1
+commodity,Paradichlorobenzene,1
+commodity,Trichlorobenzene,1
+commodity,Tert-Butyl Alcohol,1
+commodity,Isobutylene Dimer,1
+commodity,No. 2 Fuel,1
+commodity,Underground Oil,1
+commodity,Sodium Potassium Tartrate,1
+commodity,Cuprous Cyanide,1
+commodity,Dynachem Alkastrip 99A,1
+commodity,Potassium Cyanide,1
+commodity,Potassium Carbonate,1
+commodity,Dynachem Stripper 400K And Lammar Developer Kb-La,1
+commodity,Db-Lb,1
+commodity,Polychlorinated Biphenyl,1
+commodity,Transformer Fluid,1
+commodity,Trisodium Phosphate,1
+commodity,Sodium Metasilicate,1
+commodity,Citric Acid,1
+commodity,Triethanolamine,1
+commodity,Monobutylin Trichloride,1
+commodity,Polyisocyanate,1
+commodity,Asphaltine,1
+commodity,Hydrogen Sulfide Fumes,1
+commodity,Contaminated Site Cleanup,1
+commodity,Gypsum,1
+commodity,Tetramethylethylenediamine,1
+commodity,Kirkuk Crude Oil,1
+commodity,Ifo 40,1
+commodity,Propylene Oxide,1
+commodity,Copper Ore Concentrate,1
+commodity,Lube Oil Additives,1
+commodity,Venezuelan Merey,1
+commodity,Pilon Crude,1
+commodity,Phosphine,1
+commodity,Heavy Residual Oil,1
+commodity,Nigerian Forcados Crude Oil,1
+commodity,Montana Mix Sour Crude Oil,1
+commodity,Light Iranian Crude Oil,1
+commodity,Galeota Crude,1
+commodity,Es Sider Crude Oil,1
+commodity,Blended Crude (High Naphtha Content),1
+commodity,Santa Maria Crude Oil,1
+commodity,Catalytic Cracker Feedstock,1
+commodity,Ixtoc I Crude Oil,1
+commodity,Mixed Arabian Crude Oil,1
+commodity,Heavy Iranian Crude Oil,1
+commodity,Light Diesel,1
+commodity,Arabian Light Crude Oil,1
+commodity,Iranian Light Crude,1
+commodity,Number 2 Home Heating Oil,1
+commodity,Cutter Stock,1
+commodity,Orito Crude Oil,1
+commodity,Iranian Light Crude Oil,1
+commodity,Iranian Crude,1
+commodity,Waste Oil And Sludge,1
+commodity,Venezuelan Light Crude Oil,1
+commodity,Diesel Oil - Approx. 80% Heavy Distillate,1
+commodity,20% Residual Fuel Oil,1
+agencies,USCG,3591
+agencies,NOAA SSC,1916
+agencies,Responsible Party,320
+agencies,Owner,320
+agencies,NOAA ERD,235
+agencies,EPA,132
+agencies,State Agency,120
+agencies,Contractor,112
+agencies,NWS,57
+agencies,NOAA OR&R,41
+agencies,NOAA Fisheries,36
+actions_requested,Trajectory Analysis,1139
+actions_requested,Sheen Assessment,895
+actions_requested,Overflight,386
+actions_requested,Resources at Risk Report,307
+actions_requested,Weather Forecast,91
+actions_requested,Sampling,49
+actions_requested,Dispersant Use,46
+actions_requested,In-situ Burn,45
+actions_requested,Worst-case Discharge Assessment,42
+actions_requested,Wildlife Response,25
+actions_requested,SCAT,23
+actions_requested,ALOHA Modeling,13

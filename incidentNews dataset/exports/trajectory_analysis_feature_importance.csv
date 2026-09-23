@@ -1,0 +1,8 @@
+target,feature,importance_mean,importance_std
+trajectory_analysis,threat,0.1392898223489639,0.011255087547927783
+trajectory_analysis,max_ptl_release_gallons,0.03611866668213777,0.006211462804595737
+trajectory_analysis,sheen_reported,0.022723950389003534,0.004877280968490612
+trajectory_analysis,source_is_vessel,0.02250193841776906,0.004832158646478471
+trajectory_analysis,reported_qty_gallons_equiv,0.02217442011717352,0.006076955298509755
+trajectory_analysis,wildlife_impact,0.006920199305452035,0.003957767319747052
+trajectory_analysis,shoreline_impact,0.0009291743689213039,0.0009314887356135759

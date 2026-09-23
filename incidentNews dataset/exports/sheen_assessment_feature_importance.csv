@@ -1,0 +1,8 @@
+target,feature,importance_mean,importance_std
+sheen_assessment,sheen_reported,0.46371061843640604,0.008577818412830389
+sheen_assessment,reported_qty_gallons_equiv,0.0,0.0
+sheen_assessment,threat,0.0,0.0
+sheen_assessment,max_ptl_release_gallons,0.0,0.0
+sheen_assessment,shoreline_impact,0.0,0.0
+sheen_assessment,wildlife_impact,0.0,0.0
+sheen_assessment,source_is_vessel,0.0,0.0

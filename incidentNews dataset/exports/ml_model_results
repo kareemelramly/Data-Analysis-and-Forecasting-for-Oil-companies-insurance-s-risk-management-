@@ -1,0 +1,14 @@
+Based on the model used to predict if leak is secured or not:
+the source of leak being vessel affects negatively on the security by about 0.3
+The more the quantity of gallons reported in leak, the less secure the leak is by 0.2
+If the shoreline is impacted, 14% more odds the leak will be secured.
+Oil is the least dangerous factor in making securing the leak not possible and then chemical and then unknown.
+........
+actions_requested_Overflight has high correlation with sheen reported and the source bein oil and wildlofe_impact.
+......
+sheen affected is the only factor in deciding sheen assesment action
+....
+the type of threat (oil, chemial , other) with Oil is the least to decide actions_requested_Trajectory Analysis
+....
+actions_requested_Resources at Risk Report has multiple factors:
+sheen reported, threat, shoreline impact are most effective factors in deciding the action.

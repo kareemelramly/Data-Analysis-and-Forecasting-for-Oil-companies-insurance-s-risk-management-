@@ -1,0 +1,8 @@
+target,feature,importance_mean,importance_std
+resources_at_risk,threat,0.13021690971442795,0.004383745625855453
+resources_at_risk,sheen_reported,0.07185490278062547,0.002425556635833405
+resources_at_risk,shoreline_impact,0.007913067382598393,0.0008265564926797275
+resources_at_risk,max_ptl_release_gallons,0.00024298746696224116,0.0001590726371828645
+resources_at_risk,reported_qty_gallons_equiv,-6.26014342142156e-08,0.00021964009164768234
+resources_at_risk,source_is_vessel,-6.948759199485455e-05,0.00013897518398970913
+resources_at_risk,wildlife_impact,-0.00034743795997427274,0.0
